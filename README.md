@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lanka Travel Dreams ✈️
+# 🇱🇰 Sri Lanka Travel Dreams (Travel Website) ✈️
 
 Welcome to **Sri Lanka Travel Dreams**! This project is a beautiful and engaging front-end application designed to showcase the breathtaking wonders of traveling in Sri Lanka. Explore stunning destinations, learn about our services, and get inspired for your next adventure!
 
